@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Controller.Testconnection&apos; to &apos;TestconnectionController&apos;&#x0D;&#x0A;- Original project: &apos;JBDC&apos;&#x0D;&#x0A;- Original element: &apos;Controller.Testconnection&apos;&#x0D;&#x0A;- Renamed element: &apos;Controller.TestconnectionController&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Testconnection&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;Controller{Testconnection.java[Testconnection" matchStrategy="1" name="TestconnectionController" qualified="false" references="true" similarDeclarations="false" stamp="1521036434391" textual="false" version="1.0"/>
+</session>

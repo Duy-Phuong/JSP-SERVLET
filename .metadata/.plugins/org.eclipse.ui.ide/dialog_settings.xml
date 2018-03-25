@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\admin1\eclipse-workspace\stm"/>
+			<item value="C:\Users\admin1\eclipse-workspace\servlet14-annotation"/>
+			<item value="C:\Users\admin1\eclipse-workspace\servlet13-filterconfig"/>
+			<item value="C:\Users\admin1\eclipse-workspace\servlet12-filterauth"/>
+			<item value="C:\Users\admin1\eclipse-workspace\servlet11-filter"/>
+			<item value="C:\Users\admin1\eclipse-workspace\httpsessionlogin"/>
+			<item value="C:\Users\admin1\eclipse-workspace\HttpSession1"/>
+			<item value="C:\Users\admin1\eclipse-workspace\urlrewritting"/>
+			<item value="C:\Users\admin1\eclipse-workspace\loginappcookie"/>
+			<item value="C:\Users\admin1\eclipse-workspace\first"/>
+			<item value="C:\Users\admin1\eclipse-workspace\ServletCookieExample"/>
+			<item value="C:\Users\admin1\eclipse-workspace\hiddenformfield"/>
+			<item value="C:\Users\admin1\eclipse-workspace\Cookies"/>
+			<item value="C:\Users\admin1\eclipse-workspace\config2"/>
+			<item value="C:\Users\admin1\eclipse-workspace\config1"/>
+			<item value="C:\Users\admin1\eclipse-workspace\GoogleSearcher"/>
+			<item value="C:\Users\admin1\eclipse-workspace\requestdispatcher"/>
+			<item value="C:\Users\admin1\eclipse-workspace\dynamicpage"/>
+			<item value="C:\Users\admin1\eclipse-workspace\jsp-mvc-example"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+	</section>
+</section>

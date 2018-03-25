@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;viettuts6-pageContent/WebContent/sencond.jsp&apos; to &apos;second.jsp&apos;" description="Rename resource &apos;sencond.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/sencond.jsp" name="second.jsp" stamp="1521826271359" updateReferences="true"/>
+</session>
