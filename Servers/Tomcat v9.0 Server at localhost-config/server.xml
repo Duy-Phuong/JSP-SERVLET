@@ -149,7 +149,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="servlet10-HttpSession1" path="/servlet10-HttpSession1" reloadable="true" source="org.eclipse.jst.jee.server:servlet10-HttpSession1"/><Context docBase="httpsessionlogin" path="/httpsessionlogin" reloadable="true" source="org.eclipse.jst.jee.server:httpsessionlogin"/><Context docBase="servlet11-filter" path="/servlet11-filter" reloadable="true" source="org.eclipse.jst.jee.server:servlet11-filter"/><Context docBase="servlet12-filterauth" path="/servlet12-filterauth" reloadable="true" source="org.eclipse.jst.jee.server:servlet12-filterauth"/><Context docBase="servlet13-filterconfig" path="/servlet13-filterconfig" reloadable="true" source="org.eclipse.jst.jee.server:servlet13-filterconfig"/><Context docBase="servlet14-annotation" path="/servlet14-annotation" reloadable="true" source="org.eclipse.jst.jee.server:servlet14-annotation"/><Context docBase="stm" path="/stm" reloadable="true" source="org.eclipse.jst.jee.server:stm"/></Host>
+      <Context docBase="JSP3-sessionHttp" path="/JSP2-loginMVC" reloadable="true" source="org.eclipse.jst.jee.server:JSP3-sessionHttp"/></Host>
     </Engine>
   </Service>
 </Server>
