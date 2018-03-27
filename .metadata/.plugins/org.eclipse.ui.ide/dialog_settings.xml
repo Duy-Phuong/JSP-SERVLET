@@ -5,6 +5,7 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\admin1\eclipse-workspace\JSP3-sessionHttp"/>
 			<item value="C:\Users\admin1\eclipse-workspace\stm"/>
 			<item value="C:\Users\admin1\eclipse-workspace\servlet14-annotation"/>
 			<item value="C:\Users\admin1\eclipse-workspace\servlet13-filterconfig"/>
@@ -32,7 +33,6 @@
 	<section name="NewWizardAction">
 		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
-			<item value="org.eclipse.jdt.ui.java"/>
 		</list>
 	</section>
 </section>
