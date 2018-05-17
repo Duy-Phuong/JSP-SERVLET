@@ -5,6 +5,9 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\admin1\eclipse-workspace\listonetomany"/>
+			<item value="C:\Users\admin1\eclipse-workspace\hibernate-many-to-one-example-2"/>
+			<item value="C:\Users\admin1\eclipse-workspace\hibernate-example"/>
 			<item value="C:\Users\admin1\eclipse-workspace\JSP3-sessionHttp"/>
 			<item value="C:\Users\admin1\eclipse-workspace\stm"/>
 			<item value="C:\Users\admin1\eclipse-workspace\servlet14-annotation"/>
@@ -22,9 +25,6 @@
 			<item value="C:\Users\admin1\eclipse-workspace\config2"/>
 			<item value="C:\Users\admin1\eclipse-workspace\config1"/>
 			<item value="C:\Users\admin1\eclipse-workspace\GoogleSearcher"/>
-			<item value="C:\Users\admin1\eclipse-workspace\requestdispatcher"/>
-			<item value="C:\Users\admin1\eclipse-workspace\dynamicpage"/>
-			<item value="C:\Users\admin1\eclipse-workspace\jsp-mvc-example"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>

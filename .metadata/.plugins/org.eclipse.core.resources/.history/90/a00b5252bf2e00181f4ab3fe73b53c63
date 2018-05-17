@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="viettuts6-pageContent">
-        <property name="context-root" value="viettuts6-pageContent"/>
-        <property name="java-output-path" value="/viettuts6-pageContent/build/classes"/>
-    </wb-module>
-</project-modules>

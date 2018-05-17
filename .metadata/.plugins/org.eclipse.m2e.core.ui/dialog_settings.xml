@@ -2,15 +2,12 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
-			<item value="a"/>
-			<item value="com"/>
 			<item value="com.duyphuong"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
-			<item value="a"/>
-			<item value="thoitrang"/>
+			<item value="demo01"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -48,6 +45,8 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="E:\SUBJECT\JAVA\Hibernate"/>
+			<item value="C:\Users\admin1\eclipse-workspace\hibernate-example\pom.xml"/>
 			<item value="C:\Users\admin1\Pictures\a"/>
 			<item value="D:\study\năm 3\New folder"/>
 			<item value="D:\study\năm 3\SPRING MVC"/>
