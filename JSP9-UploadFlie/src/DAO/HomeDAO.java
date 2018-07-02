@@ -20,7 +20,7 @@ public class HomeDAO {
 			final String address = "E:\\SUBJECT\\JAVA";
 			final int  yourMaxMemorySize = 1024 * 1024*3; //3M
 			final int  yourMaxRequestSize = 1024 * 1024*50; //50M
-			//kt minh da bo do chua
+			//kt minh da bo doan enctype... do chua
 			boolean isMultipart = ServletFileUpload.isMultipartContent(request);
 			if(!isMultipart) {
 				request.setAttribute("msg", "not have enctype");

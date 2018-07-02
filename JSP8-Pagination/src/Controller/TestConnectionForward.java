@@ -30,7 +30,7 @@ public class TestConnectionForward extends HttpServlet {
 	
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		
-		//khi lan dau ta an vao link <a href="TestConnectionForward?pageid=1>
+		//khi lan dau ta an vao link <a href="TestConnectionForward?pageid=1> //k co khoang trang
 		String pageidsrt = request.getParameter("pageid");
 		//System.out.println(pageidsrt);
 		//ep kieu ve int

@@ -28,6 +28,7 @@ public class Hello extends HttpServlet {
 //		out.print("<html><body>");
 //		out.print("<h3>Hello Servlet</h3>");
 //		out.print("</body></html>");
+		
 	}
 
 	
@@ -39,6 +40,7 @@ public class Hello extends HttpServlet {
 		
 		out.print("<html><body>");
 		out.print("<h3>Hello Servlet</h3>");
+		//xai for de duyet r in ra cx dk
 		out.print("<p>" + list.get(0).getName1() + " " + list.get(0).getName2() + "</p>");
 		out.print("</body></html>");
 	}

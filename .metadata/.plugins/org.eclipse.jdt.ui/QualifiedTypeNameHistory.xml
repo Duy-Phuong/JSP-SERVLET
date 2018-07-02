@@ -16,7 +16,6 @@
 <fullyQualifiedTypeName name="Bean.AnswerUser"/>
 <fullyQualifiedTypeName name="Bean.Emp"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
-<fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
 <fullyQualifiedTypeName name="org.apache.commons.fileupload.servlet.ServletFileUpload"/>
 <fullyQualifiedTypeName name="org.apache.commons.fileupload.disk.DiskFileItemFactory"/>
 <fullyQualifiedTypeName name="org.apache.tomcat.jni.File"/>
@@ -38,4 +37,5 @@
 <fullyQualifiedTypeName name="com.mysql.jdbc.Connection"/>
 <fullyQualifiedTypeName name="java.sql.Connection"/>
 <fullyQualifiedTypeName name="DAO.HomeDAO"/>
+<fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
 </qualifiedTypeNameHistroy>
