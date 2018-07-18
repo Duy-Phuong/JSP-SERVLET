@@ -5,6 +5,10 @@
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\admin1\eclipse-workspace\DispatchActionExample"/>
+			<item value="C:\Users\admin1\eclipse-workspace\LoginPageExample"/>
+			<item value="C:\Users\admin1\eclipse-workspace\HelloWorldExample"/>
+			<item value="C:\Users\admin1\eclipse-workspace\StrutsExample"/>
 			<item value="C:\Users\admin1\eclipse-workspace\listonetomany"/>
 			<item value="C:\Users\admin1\eclipse-workspace\hibernate-many-to-one-example-2"/>
 			<item value="C:\Users\admin1\eclipse-workspace\hibernate-example"/>
@@ -21,10 +25,6 @@
 			<item value="C:\Users\admin1\eclipse-workspace\first"/>
 			<item value="C:\Users\admin1\eclipse-workspace\ServletCookieExample"/>
 			<item value="C:\Users\admin1\eclipse-workspace\hiddenformfield"/>
-			<item value="C:\Users\admin1\eclipse-workspace\Cookies"/>
-			<item value="C:\Users\admin1\eclipse-workspace\config2"/>
-			<item value="C:\Users\admin1\eclipse-workspace\config1"/>
-			<item value="C:\Users\admin1\eclipse-workspace\GoogleSearcher"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
 			<item value=""/>
