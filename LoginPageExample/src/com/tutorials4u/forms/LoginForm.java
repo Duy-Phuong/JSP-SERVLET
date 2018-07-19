@@ -1,5 +1,8 @@
 package com.tutorials4u.forms;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import javax.servlet.http.HttpServletRequest;
 
 import org.apache.struts.action.ActionErrors;
@@ -17,6 +20,36 @@ public class LoginForm extends org.apache.struts.action.ActionForm {
 	private String userName;
 
 	private String password;
+	
+	private String mode;
+	
+	private String age;
+	
+	private String state;
+	public String getState() {
+		return state;
+	}
+	public void setState(String state) {
+		this.state = state;
+	}
+
+	List<String> stateList = new ArrayList<String>();
+	
+	public List<String> getStateList() {
+		
+		return stateList;
+	}
+	public void setStateList(List<String> stateList) {
+		this.stateList = stateList;
+	}
+
+	public String getMode() {
+		return mode;
+	}
+
+	public void setMode(String mode) {
+		this.mode = mode;
+	}
 
 	/**
      *
@@ -81,5 +114,13 @@ public class LoginForm extends org.apache.struts.action.ActionForm {
 	 */
 	public void setPassword(String password) {
 		this.password = password;
+	}
+
+	public String getAge() {
+		return age;
+	}
+
+	public void setAge(String age) {
+		this.age = age;
 	}
 }

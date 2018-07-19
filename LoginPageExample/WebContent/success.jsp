@@ -11,5 +11,13 @@
 <body>
 <h1>Login Success. Welcome <bean:write name="LoginForm"
 	property="userName"></bean:write></h1>
+	mode: <bean:write name="LoginForm"
+	property="mode"></bean:write>
+	<br/>
+	age: <bean:write name="LoginForm"
+	property="age"></bean:write>
+	<br/>
+	state: <bean:write name="LoginForm"
+	property="state"></bean:write>
 </body>
 </html>

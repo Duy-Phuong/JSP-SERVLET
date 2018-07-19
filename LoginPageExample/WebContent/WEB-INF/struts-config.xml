@@ -8,6 +8,7 @@
 <struts-config>
     <form-beans>
         <form-bean name="LoginForm" type="com.tutorials4u.forms.LoginForm"/>
+        <form-bean name="SearchForm" type="fjs.cs.bean.T002_CustomerSearchBean"/>
     
     </form-beans>
     
@@ -23,6 +24,9 @@
         <action input="/login.jsp" name="LoginForm" path="/Login" scope="session" type="com.tutorials4u.actions.LoginAction">
             <forward name="success" path="/success.jsp" />
             <forward name="failure" path="/failure.jsp" />
+        </action>
+         <action input="/login.jsp" name="SearchForm" path="/T002Search" scope="request" type="fjs.cs.action.T002_SearchAction">
+            <forward name="success" path="/form2.jsp" />
         </action>
         <action path="/Welcome" forward="/welcomeStruts.jsp"/>
     </action-mappings>
